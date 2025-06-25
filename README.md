@@ -82,7 +82,7 @@ argo+vmess 的搭建教学看[这里](https://youtu.be/nmb2F6uBKsg?si=v8twWIkIjs
 ## 赞助
 
 <left><details><summary><strong> [点击展开] 请作者喝杯咖啡 ~🧧</strong></summary>
-_捐赠将是对我最大的支持，它将激励我持续的创新和创作。捐赠>=5u, 可联系我加入饭友会会员群, 捐赠>=10u, 加入赞助人感谢名单_
+_捐赠将是对我最大的支持，它将激励我持续的创新和创作。
 
 ![](https://look.pics.cloudns.ch/img/%E6%AC%A7%E6%98%93%E8%B5%9E%E5%8A%A9%E7%A0%81.png)
 
